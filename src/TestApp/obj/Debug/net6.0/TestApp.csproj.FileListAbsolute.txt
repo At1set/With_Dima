@@ -12,3 +12,18 @@ D:\рабочий стол\Проекты ''Гениального'' верст�
 D:\рабочий стол\Проекты ''Гениального'' верстальщика\GIT\test\src\TestApp\obj\Debug\net6.0\TestApp.pdb
 D:\рабочий стол\Проекты ''Гениального'' верстальщика\GIT\test\src\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
 D:\рабочий стол\Проекты ''Гениального'' верстальщика\GIT\test\src\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\bin\Debug\net6.0\TestApp.exe
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\bin\Debug\net6.0\TestApp.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\obj\Debug\net6.0\TestApp.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\obj\Debug\net6.0\TestApp.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Gitt\With_Dima\src\TestApp\obj\Debug\net6.0\ref\TestApp.dll

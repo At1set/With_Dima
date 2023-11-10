@@ -11,15 +11,11 @@ public static class FileWorker
 	{
         StringBuilder data = new ();
 
-        FileStream file = File.Open(filePath, FileMode.Open);
-        using (StreamReader reader = new StreamReader(filePath))
+        StreamReader reader = new StreamReader(filePath);
+        string line;
+        while ((line = reader.ReadLine()) != null)
         {
-            // Читаем файл построчно
-            string line;
-            while ((line = reader.ReadLine()) != null)
-            {
-                data.AppendLine(line);
-            }
+           data.AppendLine(line);
         }
         return data.ToString ();
     }
